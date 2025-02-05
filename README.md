@@ -16,6 +16,9 @@ To run:
 -- a keras model will be saved(with .keras extension) after the execution of the whole program in the same directory
 
 
+
+
+
 To run web app:
 -- open terminal of the same directory in whcih all the files are present and enter the following command:
 
