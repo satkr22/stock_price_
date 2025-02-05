@@ -20,6 +20,7 @@ To run:
 
 
 To run web app:
+
 -- open terminal of the same directory in whcih all the files are present and enter the following command:
 
 streamlit run .\web_stock_price_predictor.py
