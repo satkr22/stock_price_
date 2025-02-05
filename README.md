@@ -10,7 +10,9 @@ Libraries needed:
 8. keras
 
 To run: 
+
 -- run all the cells of jupyter notbebook (make sure all the above libraries are imported successfully)
+
 -- a keras model will be saved(with .keras extension) after the execution of the whole program in the same directory
 
 
